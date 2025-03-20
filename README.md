@@ -1,6 +1,6 @@
 # flutter_firestore_example
 
-A new Flutter project.
+A new Flutter project to demonstate Firebase Firestore CRUD operations in Android studio.
 
 ## Getting Started
 
